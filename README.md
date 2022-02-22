@@ -32,26 +32,32 @@
 * [A Second Course in Algorithms (Notes and Assignments)](http://timroughgarden.org/w16/w16.html)
 * [Graph Theory](https://www.youtube.com/user/DrSaradaHerke/playlists)
 
-7. [Programming Paradigms,Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
-8. [Mining Massive Datasets - Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
-9. [Hacking a Google Interview MIT](http://courses.csail.mit.edu/iap/interview/materials.php)
-10. [CS106A - Programming Methodology Stanford](https://see.stanford.edu/Course/CS106A)
-11. [Understanding Computers and the Internet Harvard University Extension College](http://cse1.net/lectures)
-12. [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-13. [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-14. ##### Solving Problems
+7. ##### MISC.
+* [Programming Paradigms,Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
+* [Mining Massive Datasets - Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+* [Hacking a Google Interview MIT](http://courses.csail.mit.edu/iap/interview/materials.php)
+* [CS106A - Programming Methodology Stanford](https://see.stanford.edu/Course/CS106A)
+* [Understanding Computers and the Internet Harvard University Extension College](http://cse1.net/lectures)
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+* [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+* [GitHub CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+9. ##### Solving Problems
 * [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
 * [HOW TO DISSECT A TOPCODER PROBLEM STATEMENT CONTENT](https://www.topcoder.com/thrive/articles/How%20To%20Dissect%20a%20Topcoder%20Problem%20Statement%20Content)
-15. ##### Coding Interview Question Videos:
+
+10. ##### Coding Interview Question Videos:
 * [IDeserve](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
 * [Tushar Roy](https://www.youtube.com/user/tusharroy2525/playlists)
 * [Nick White Leetcode Solutions](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
 * [Fisher Coder - LeetCode Solutions](https://www.youtube.com/FisherCoder)
 
-* ##### [CodeForces Topic Wse Difficulty Wise Questions Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video)
+11. ##### Questions
+* [CodeForces Topic Wse Difficulty Wise Questions Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video)
 
-* ##### [LeetCode Topic Wise Difficulty Wise Questions Sheet](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+* [LeetCode Topic Wise Difficulty Wise Questions Sheet](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 
+12. ##### Some Usefull Playlists
 * [For the basics of C](https://www.youtube.com/playlist?list=PLir19lgiavA1ThCmnKO6QJHjSlHGgt553)
 
 * [JAVA DSA BootCamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
