@@ -57,7 +57,7 @@
 
 * [Dyanamic Programming 1](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-* [Dyanamic Programming 2](youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+* [Dyanamic Programming 2](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 
 9. ##### Some Usefull Playlists
