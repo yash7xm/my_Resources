@@ -16,8 +16,8 @@
 * [MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
 * [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 4. ##### Data Structers And Algorithms
-* [Data Structure UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-* [Data Structure UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C)
+* [Data Structure UC Berkeley Spring 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+* [Data Structure UC Berkeley ](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C)
 * [Advanced Data Structure MIT](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=2)
 * [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
