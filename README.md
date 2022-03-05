@@ -29,7 +29,7 @@
 * [A Second Course in Algorithms (Stanford CS261, Winter 2016)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc)
 * [A Second Course in Algorithms (Notes and Assignments)](http://timroughgarden.org/w16/w16.html)
 * [Graph Theory](https://www.youtube.com/user/DrSaradaHerke/playlists)
-* [Algorithms Princton](https://algs4.cs.princeton.edu/lectures/);
+* [Algorithms Princton](https://algs4.cs.princeton.edu/lectures/)
 
 5. ##### MISC.
 * [Programming Paradigms,Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
