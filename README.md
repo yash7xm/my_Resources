@@ -40,6 +40,7 @@
 * [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 * [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 * [GitHub CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 6. ##### Solving Problems
 * [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
