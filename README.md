@@ -30,6 +30,7 @@
 * [A Second Course in Algorithms (Notes and Assignments)](http://timroughgarden.org/w16/w16.html)
 * [Graph Theory](https://www.youtube.com/user/DrSaradaHerke/playlists)
 * [Algorithms Princeton](https://algs4.cs.princeton.edu/lectures/)
+* [William Fiset DSA](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 
 5. ##### MISC.
 * [Programming Paradigms,Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
