@@ -31,6 +31,7 @@
 * [Graph Theory](https://www.youtube.com/user/DrSaradaHerke/playlists)
 * [Algorithms Princeton](https://algs4.cs.princeton.edu/lectures/)
 * [William Fiset DSA](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+* [Algorithms Specialization Stanford](https://www.coursera.org/specializations/algorithms?irclickid=WHZz3bXmYzeDT%3Ao3Hiy7c2FRUkD2LP2gZ2jAVQ0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=397676&utm_content=b2c)
 
 5. ##### MISC.
 * [Programming Paradigms,Stanford](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
